@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Demo</string>
+    <string name="title" translatable="false">Not Expand</string>
+    <string name="desc">Expand Content:想记录一下工作中遇到的问题，养成一个记录的习惯，这是第一篇博客。
+        之前看了ios 9.2 之后的可视化语音信箱，觉得这个点击展开的效果很不错，就想了想android能不能实现这个效果呢，应该是可以的。
+        才疏学浅的我google了一番，没有得到一个一样的效果，有高亮显示item的，但是没找到将别的条目变灰色的，所以写个demo试试，
+        如果您有好的方法，请告诉我。当前条目：</string>
+</resources>
